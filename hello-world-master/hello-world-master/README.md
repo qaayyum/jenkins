@@ -1,3 +1,0 @@
-# jenkin
-
-Simple Maven Project
